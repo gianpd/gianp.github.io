@@ -8,10 +8,10 @@ html,body {
   }
   
   .name:after{
-    content: "Vladimir Iashin";
+    content: "Gian Pio Domiziani";
   }
   .name:hover:after{
-    content:'Vladimir Yashin';
+    content:'Gian Pio Domiziani';
   }
   
   p {
