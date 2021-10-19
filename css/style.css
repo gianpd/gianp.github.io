@@ -10,9 +10,6 @@ html,body {
   .name:after{
     content: "Gian Pio Domiziani";
   }
-  .name:hover:after{
-    content:'Gian Pio Domiziani';
-  }
   
   p {
     margin-left: auto;
