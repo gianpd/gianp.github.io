@@ -7,9 +7,6 @@ html,body {
     text-align: center;
   }
   
-  .name:after{
-    content: "Gian Pio Domiziani";
-  }
   
   p {
     margin-left: auto;
